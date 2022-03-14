@@ -9,7 +9,7 @@
 ,'Assembly-CSharp.dll'
 ,'Assembly-UnityScript-firstpass.dll'
 ,'Boo.Lang.dll'
-,'ExIni.dll'
+#,'ExIni.dll'
 ,'FoveUnityPlugin.dll'
 ,'Ionic.Zlib.dll'
 ,'JsonFx.Json.dll'
