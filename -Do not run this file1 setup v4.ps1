@@ -12,7 +12,7 @@ if( Test-Path "..\..\$MakePath" ){
 New-Item -Path "..\..\$MakePath" -ItemType Directory | Out-Null
 
 #Get-Item "..\" | Select-Object -Property *
-
+# 헤쉬 테이블
 $Paths = @{}
 $Paths.add("COM3D2x64_Data",@('desktop.ini','output_log.txt'))
 $Paths.add("GameData",@('desktop.ini','paths.dat'))
