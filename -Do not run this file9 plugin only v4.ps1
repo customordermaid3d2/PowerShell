@@ -112,6 +112,7 @@ $files = @(
 'BepinEx\config\COM3D2.MaidFlagCtr.Plugin-flags.json', 
 'BepinEx\config\COM3D2.MaidFlagCtr.Plugin-flagsOld.json', 
 'BepinEx\config\COM3D2.MaidFlagCtr.Plugin-flagsNot.json', 
+'Sybaris\UnityInjector\Config\DanceCameraMotion\png\gearicon.png', 
 'doorstop_config.ini', 
 'winhttp.dll')
 
